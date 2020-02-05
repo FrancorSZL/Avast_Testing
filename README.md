@@ -1,5 +1,4 @@
-# Avast_Testing
-QA intern homework
+# QA intern homework
 ## Manual testing task:
 Create and present a structured bug report in English
 
